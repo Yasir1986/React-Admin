@@ -19,5 +19,11 @@
             "publishedAt": "10-11-2020"
         }
     ],
-    "users": []
+    "users": [
+        {
+            "id": "1",
+            "name": "John Doe",
+            "email": "john@example.com"
+        }
+    ]
 }
