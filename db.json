@@ -1,0 +1,23 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Post One",
+            "body": "This is the post body",
+            "publishedAt": "10-11-2020"
+        },
+        {
+            "id": "1",
+            "title": "Post Two",
+            "body": "This is the post body",
+            "publishedAt": "10-11-2020"
+        },
+        {
+            "id": "1",
+            "title": "Post Three",
+            "body": "This is the post body",
+            "publishedAt": "10-11-2020"
+        }
+    ],
+    "users": []
+}
