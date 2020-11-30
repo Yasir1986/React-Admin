@@ -7,13 +7,13 @@
       "publishedAt": "10-11-2020"
     },
     {
-      "id": "1",
+      "id": "2",
       "title": "Post Two",
-      "body": "This is the post body",
+      "body": "This is the post body for two",
       "publishedAt": "10-11-2020"
     },
     {
-      "id": "1",
+      "id": "3",
       "title": "Post Three",
       "body": "This is the post body",
       "publishedAt": "10-11-2020"
@@ -23,6 +23,12 @@
       "body": "This is the body for post four",
       "publishedAt": "11-11-2020",
       "id": "zMUZepb"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body for post four",
+      "publishedAt": "2020-11-29",
+      "id": "2oJ1wJp"
     }
   ],
   "users": [
@@ -30,6 +36,16 @@
       "id": "1",
       "name": "John Doe",
       "email": "john@example.com"
+    },
+    {
+      "name": "John Smith",
+      "email": "smith@example.com",
+      "id": "Dk5MfXh"
+    },
+    {
+      "name": "John Doe 2",
+      "email": "doe2@example.com",
+      "id": "sbkw_a8"
     }
   ]
 }
